@@ -14,8 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div align="center">
 ![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&text=Zaquum's%20GitHub%20&height=150&fontSize=60&desc=Welcome!&descAlignY=75&descAlign=60)
+
+<div align="center">
 
   <Strong>☁️SNS List☁️</Strong><br><br>
   <a href="https://www.instagram.com/dudgns466/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=plastic&logo=appveyor&logoColor=white"/></a>
