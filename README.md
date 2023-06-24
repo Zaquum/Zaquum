@@ -14,8 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[SNS List]<br>
-<a href="https://www.instagram.com/dudgns466/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=plastic&logo=appveyor&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/kim-younghun-6413611bb/" target="_blank"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=plastic&logo=appveyor&logoColor=white"/></a>
+
+![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&text=Zaquum's%20GitHub%20&height=150&fontSize=60&desc=Welcome!&descAlignY=75&descAlign=60)
+
+<p align="center">
+  <Strong>☁️SNS List☁️</Strong><br><br>
+  <a href="https://www.instagram.com/dudgns466/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=plastic&logo=appveyor&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/kim-younghun-6413611bb/" target="_blank"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=plastic&logo=appveyor&logoColor=white"/></a>
+  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzaquum%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+</p>
 <br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zaquum&show_icons=true&theme=radical)
