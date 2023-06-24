@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-SNS List
+<SNS List><br>
 <a href="https://www.instagram.com/dudgns466/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=plastic&logo=appveyor&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/kim-younghun-6413611bb/" target="_blank"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=plastic&logo=appveyor&logoColor=white"/></a>
 <br>
