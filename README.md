@@ -27,6 +27,6 @@ Here are some ideas to get you started:
   ## Stats
   ![Zaquum's GitHub stats](https://github-readme-stats.vercel.app/api?username=zaquum&show_icons=true&theme=radical)
   <br>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zaquum&layout=compact&theme=tokyonight)](https://github.com/Zaquum)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jogilsang&langs_count=10&layout=compact&theme=dark)](https://github.com/jogilsang/jogilsang)﻿
   
 </div>
