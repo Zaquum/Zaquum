@@ -25,8 +25,8 @@ Here are some ideas to get you started:
   <br>
   <br>
   ## Stats
-  ![Zaquum's GitHub stats](https://github-readme-stats.vercel.app/api?username=zaquum&show_icons=true&theme=radical)
+  ![Zaquum's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zaquum&show_icons=true&theme=radical)
   <br>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zaquum&layout=compact&theme=tokyonight)](https://github.com/zaquum/zaquum)﻿
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zaquum&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
   
 </div>
